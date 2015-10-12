@@ -1,11 +1,11 @@
-# Software-Defined-Storage-Doc
+# Big-Data-Machine-Learning-Doc
 
 Documentation
 
 Please follow the directory structure as shown below
 
 ```
-  Software-Defined-Storage-Doc
+  Big-Data-Machine-Learning-Doc
     - Raw
       - Week1-Chameleon-Ceph-Deployment
         - Version-1
