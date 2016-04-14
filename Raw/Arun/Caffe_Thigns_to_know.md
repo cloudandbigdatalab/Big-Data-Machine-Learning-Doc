@@ -1,4 +1,4 @@
-# Caffe: Things to know to train your network.
+# Caffe: Things to know to train your network\.
 
 1. **Data Injestion and Preprocessing**
  * Data Injestion formats
