@@ -7,8 +7,8 @@
     * HDF5 formated data.
     * Image files.
  * **Preprocessing Tools**
-     `~ Can be found at $CAFFE_ROOT/build/tools`
-    * LevelDB or LMDB creation from raw images.
+     `~ Can be found at $CAFFE_ROOT/tools`
+    * LevelDB or LMDB creation from raw images. `($CAFFE_ROOT/tools/convert_imageset.cpp)`
     * Training and validation set creation with shuffling algorithms.
     * Mean image generation.
  * **Data Transformation Tools**
