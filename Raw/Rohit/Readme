@@ -1,5 +1,0 @@
-Step 1. Navigate to the work directory using >cd 
-Step 2. Build the Compiler.java file using > ./build.sh
-Step 3. Run the corresponding Program using ./exec.h <Basefile_Name_without_.tl_extension>
-Step 4. You can see the output of the Parse Tree in <Basefile.cfg.dot.png>
-Step 5. You can see the output of the AST in <Basefile.ast.dot.png>  
