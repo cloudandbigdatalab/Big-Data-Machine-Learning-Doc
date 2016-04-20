@@ -327,7 +327,7 @@ plt.imshow(image)
 ![png](output_15_1.png)
 
 
-***The image here in the notebook is pretty small, you can view it better [here](The image here in the notebook is pretty small, you can view it better here.).***
+***The image here in the notebook is pretty small, you can view it better [here](https://raw.githubusercontent.com/arundasan91/Caffe/master/Data/deploy_changed_net.png).***
 
 Now we can create a transformer to input data into our net. Input data here are images. The subtracted-mean of the images in the dataset considered are to be set in the transformer. Mean subtraction is a way of preprocessing the image. The mean is subtracted across every individual feature in the dataset. This can be interpreted as the centering of a cloud of data around the origin along every dimension. With our input data fixed as images, this relates to subtracting the mean from each of the pixels, seperately across the three channels. More on it [here](http://cs231n.github.io/neural-networks-2/).
 
