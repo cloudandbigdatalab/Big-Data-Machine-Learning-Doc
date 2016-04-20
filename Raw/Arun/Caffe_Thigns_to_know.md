@@ -252,12 +252,12 @@
     snapshot: 5000
     snapshot_prefix: "mnist/lenet"
     ```
-4. Optimization Algorithms
+4. **Optimization Algorithms**
  * SGD + momentum
  * ADAGRAD
  * NAG
 
-5. After training
+5. **After training**
  * Caffe training produces a binary file with extension *\.caffemodel*.
      * This is a machine readable file generally a few hundered mega bytes.
      * This model can be reused for further training and can be shared as well.
@@ -265,7 +265,7 @@
  * Integrate the model into the data pipeline using Caffe command line or Matlab/Python.
  * Deploy model across hardware or OS environments with caffe installed.
  
- 6. Share to ModelZoo
+ 6. **Share to ModelZoo**
   * ModelZoo is a project/model sharing community.
   * Normally, when sharing the caffemodel, the following should be present:
       * Solver
