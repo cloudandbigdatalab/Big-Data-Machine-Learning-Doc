@@ -11,6 +11,8 @@
 * *Deep Neural Network with Caffe (1).ipynb* will cover both example 1 and 2. 
 * A markdown version of the notebook is available in the *MD Files* folder.
 
+##Update 3
+* Added an image file which summarizes the basic architecture of Caffe.
 
 ##Working on:
 * Install caffe in a spark cluster utilizing CaffeonSpark by yahoo!
