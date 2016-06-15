@@ -14,6 +14,10 @@
 ##Update 3
 * Added an image file which summarizes the basic architecture of Caffe.
 
+##Update 4:
+* Installed caffe in a spark cluster utilizing CaffeOnSpark by yahoo!
+* Set up 2 capable servers with packages required for caffe and tensorflow.
+
 ##Working on:
-* Install caffe in a spark cluster utilizing CaffeonSpark by yahoo!
-* Get systems up, configured and ready for testing.
+* Getting ready for testing CaffeOnSpark.
+* Working on integrating Nvidia K40 GPU with the prepared servers and rebuilding Caffe, Tensorflow.
