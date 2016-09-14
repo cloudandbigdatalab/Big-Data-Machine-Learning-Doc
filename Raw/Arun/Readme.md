@@ -18,6 +18,11 @@
 * Installed caffe in a spark cluster utilizing CaffeOnSpark by yahoo!
 * Set up 2 capable servers with packages required for caffe and tensorflow.
 
+##Update 5:
+* Caffe, Tensorflow examples carried out in GPU Nodes.
+* CaffeOnSpark examples have been carried out.
+* Successfully built an app for Image Classification. More info here: https://github.com/arundasan91/classifyME
+
 ##Working on:
-* Getting ready for testing CaffeOnSpark.
-* Working on integrating Nvidia K40 GPU with the prepared servers and rebuilding Caffe, Tensorflow.
+* Integrating Deep Learning in IOT devices like *Raspberry Pi*.
+* Working on an iOS app integrating Tensorflow to make an Image Classification Engine 
